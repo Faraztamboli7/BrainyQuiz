@@ -1,0 +1,23 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Berlin", "Rome", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Shakespeare", "Dickens", "Twain", "Hemingway"],
+      "answer": "Shakespeare"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Silver", "Iron"],
+      "answer": "Oxygen"
+    }
+  ]
+  
